@@ -1,4 +1,4 @@
-PROG =	quicurb_LIN64.exe
+PROG =	quicurb_RELIEF.exe
 #PROG =	quicurb_MACI.exe
 
 SRCS =	bisect.f90 bridgewake.f90 building_connect.f90 \
